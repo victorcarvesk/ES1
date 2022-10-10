@@ -1,0 +1,7 @@
+{
+    "hamlet": {"name": "Hamlet", "tipo": "tragedy"},
+    "as-like": {"name": "As You Like It", "tipo": "comedy"},
+    "othello": {"name": "Othello", "tipo": "tragedy"},
+    "romeo and juliet": {"name": "Othello", "tipo": "romance"},
+    "le prince": {"name": "le prince", "tipo": "drama"}
+}

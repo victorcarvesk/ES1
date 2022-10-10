@@ -1,0 +1,6 @@
+Statement for BigCo
+  hamlet: R$ 650,00 (55 seats)
+  as-like: R$ 580,00 (35 seats)
+  othello: R$ 500,00 (40 seats)
+Amount owed is R$ 1730,00
+You earned 40 credits
